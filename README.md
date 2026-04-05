@@ -48,7 +48,7 @@ An automated, event-driven ETL pipeline that:
 5. Aggregation calculates bookings per listing
 6. Results are written to partitioned output
 
-## 🔄 Pipeline Architecture
+## 🔄 Pipeline Graphical Architecture
 
 ```mermaid
 flowchart LR
